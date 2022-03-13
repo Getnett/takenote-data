@@ -19,9 +19,17 @@
   },
   {
     "id": "74ffabfb-73e6-4b44-ae52-2dd1eeae0da8",
-    "text": "This a new note can I change the title\nthis c",
+    "text": "This a new note can I change the title\nthis here is just enought to put down any of your toughts or tasks",
     "created": "2022-03-13T09:54:47+03:00",
-    "lastUpdated": "2022-03-13T09:56:39+03:00",
+    "lastUpdated": "2022-03-13T09:57:02+03:00",
+    "category": "",
+    "favorite": true
+  },
+  {
+    "id": "d4e951d3-9867-4515-b655-afccfb93fa5d",
+    "text": "it gets ",
+    "created": "2022-03-13T09:57:16+03:00",
+    "lastUpdated": "2022-03-13T09:57:28+03:00",
     "category": "",
     "favorite": true
   }
